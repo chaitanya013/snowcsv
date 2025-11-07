@@ -1,0 +1,264 @@
+#,"Request/
+Task",Short Description,CRF,CRF Change Type,SR No,SR Status,SR Assigned to,CRF Logged date,CRF Last approval,TR Import Date,Implementation by BASIS Team,CRF Closure Date,Status,Person Incharge,CRF Observation
+1,SAPK75002CCPSAPBASIS,SAP_BASIS 750: CP 02C,6966,Normal,105465.0,Resolved,Sandeep Sharma,2025-08-13 00:00:00.000,2025-08-14 00:00:00,18.08.2025,2025-08-18 00:00:00,2025-08-18 00:00:00,Closed,Prasun Mishra,OK
+2,SDVK956627,CR4349: SAP HR SPECIAL LEAVE CONFIG,4349,Normal,70131.0,Resolved,Sarvada Kamble,2024-06-25 09:11:43.393,May 1 2025 1:35PM,04.08.2025,2025-08-04 20:51:35.827000,2025-08-04 20:51:35.827000,Closed,,OK
+3,SDVK956891,Block holiday changes,4349,Normal,70131.0,Resolved,Sarvada Kamble,2024-06-25 09:11:43.393,May 1 2025 1:35PM,04.08.2025,2025-08-04 20:51:35.827000,2025-08-04 20:51:35.827000,Closed,,OK
+4,SDVK957521,HR:Time Evaluation to Generate Spl. Leave Quota (16.8.2024),4349,Normal,70131.0,Resolved,Sarvada Kamble,2024-06-25 09:11:43.393,May 1 2025 1:35PM,04.08.2025,2025-08-04 20:51:35.827000,2025-08-04 20:51:35.827000,Closed,,OK
+5,SDVK957831,HR:TIME ;- SPL LEAVE FOR LINE MANAGER (03.09.2024),4349,Normal,70131.0,Resolved,Sarvada Kamble,2024-06-25 09:11:43.393,May 1 2025 1:35PM,04.08.2025,2025-08-04 20:51:35.827000,2025-08-04 20:51:35.827000,Closed,,OK
+6,SDVK957863,Block holiday changes for special leave,4349,Normal,70131.0,Resolved,Sarvada Kamble,2024-06-25 09:11:43.393,May 1 2025 1:35PM,04.08.2025,2025-08-04 20:51:35.827000,2025-08-04 20:51:35.827000,Closed,,OK
+7,SDVK957866,WS GEN FOR BLOCK HOLIDAY CHANGES,4349,Normal,70131.0,Resolved,Sarvada Kamble,2024-06-25 09:11:43.393,May 1 2025 1:35PM,04.08.2025,2025-08-04 20:51:35.827000,2025-08-04 20:51:35.827000,Closed,,OK
+8,SDVK958057,special leave back to 1,4349,Normal,70131.0,Resolved,Sarvada Kamble,2024-06-25 09:11:43.393,May 1 2025 1:35PM,04.08.2025,2025-08-04 20:51:35.827000,2025-08-04 20:51:35.827000,Closed,,OK
+9,SDVK958673,CR4349: SAP HR SPECIAL LEAVE CONFIG_AN (19thSept24),4349,Normal,70131.0,Resolved,Sarvada Kamble,2024-06-25 09:11:43.393,May 1 2025 1:35PM,04.08.2025,2025-08-04 20:51:35.827000,2025-08-04 20:51:35.827000,Closed,,OK
+10,SDVK959578,SAPHR-CR6580-CUSTOM FUN INFOTYPE 2002 ODDL SPECIAL LEAVE,4349,Normal,70131.0,Resolved,Sarvada Kamble,2024-06-25 09:11:43.393,May 1 2025 1:35PM,04.08.2025,2025-08-04 20:51:35.827000,2025-08-04 20:51:35.827000,Closed,,OK
+11,SDVK959684,test for validity of 86,4349,Normal,70131.0,Resolved,Sarvada Kamble,2024-06-25 09:11:43.393,May 1 2025 1:35PM,04.08.2025,2025-08-04 20:51:35.827000,2025-08-04 20:51:35.827000,Closed,,OK
+12,SDVK959708,special leave changes ZL1 13-12,4349,Normal,70131.0,Resolved,Sarvada Kamble,2024-06-25 09:11:43.393,May 1 2025 1:35PM,04.08.2025,2025-08-04 20:51:35.827000,2025-08-04 20:51:35.827000,Closed,,OK
+13,SDVK960180,unlock special leave,4349,Normal,70131.0,Resolved,Sarvada Kamble,2024-06-25 09:11:43.393,May 1 2025 1:35PM,04.08.2025,2025-08-04 20:51:35.827000,2025-08-04 20:51:35.827000,Closed,,OK
+14,SDVK960216,SCHEMA CHANGES SPECIAL LEAVE,4349,Normal,70131.0,Resolved,Sarvada Kamble,2024-06-25 09:11:43.393,May 1 2025 1:35PM,04.08.2025,2025-08-04 20:51:35.827000,2025-08-04 20:51:35.827000,Closed,,OK
+15,SDVK960340,SAPHR-CR6580-SPECIAL LEAVE REPORT,4349,Normal,70131.0,Resolved,Sarvada Kamble,2024-06-25 09:11:43.393,May 1 2025 1:35PM,04.08.2025,2025-08-04 20:51:35.827000,2025-08-04 20:51:35.827000,Closed,,OK
+16,SDVK960372,special leave correction 17.01.2025,4349,Normal,70131.0,Resolved,Sarvada Kamble,2024-06-25 09:11:43.393,May 1 2025 1:35PM,04.08.2025,2025-08-04 20:51:35.827000,2025-08-04 20:51:35.827000,Closed,,OK
+17,SDVK961096,SAPHR-CR6580-SPECIAL LEAVE DELETING '85' from 2006,4349,Normal,70131.0,Resolved,Sarvada Kamble,2024-06-25 09:11:43.393,May 1 2025 1:35PM,04.08.2025,2025-08-04 20:51:35.827000,2025-08-04 20:51:35.827000,Closed,,OK
+18,SDVK961102,SAPHR-CR6580-Generate Special Leave for Operating Heads,4349,Normal,70131.0,Resolved,Sarvada Kamble,2024-06-25 09:11:43.393,May 1 2025 1:35PM,04.08.2025,2025-08-04 20:51:35.827000,2025-08-04 20:51:35.827000,Closed,,OK
+19,SDVK961133,Deletion function for SPL Leave,4349,Normal,70131.0,Resolved,Sarvada Kamble,2024-06-25 09:11:43.393,May 1 2025 1:35PM,04.08.2025,2025-08-04 20:51:35.827000,2025-08-04 20:51:35.827000,Closed,,OK
+20,SDVK961369,Remove deduction rule from HSPL,4349,Normal,70131.0,Resolved,Sarvada Kamble,2024-06-25 09:11:43.393,May 1 2025 1:35PM,04.08.2025,2025-08-04 20:51:35.827000,2025-08-04 20:51:35.827000,Closed,,OK
+21,SDVK961392,delete 86 from system,4349,Normal,70131.0,Resolved,Sarvada Kamble,2024-06-25 09:11:43.393,May 1 2025 1:35PM,04.08.2025,2025-08-04 20:51:35.827000,2025-08-04 20:51:35.827000,Closed,,OK
+22,SDVK961486,86 created for tESTING,4349,Normal,70131.0,Resolved,Sarvada Kamble,2024-06-25 09:11:43.393,May 1 2025 1:35PM,04.08.2025,2025-08-04 20:51:35.827000,2025-08-04 20:51:35.827000,Closed,,OK
+23,SDVK962677,SAPSD : CR6704 Improvement Required - VA05// SAP,6580,Normal,70131.0,Resolved,Sarvada Kamble,2025-06-19 12:18:20.957,2025-08-01 00:00:00,12.08.2025,2025-08-04 19:58:00.207000,2025-08-04 19:58:00.207000,Closed,,OK
+24,SDVK962679,SAPHR-CR4349-SF-Special Leave logic addition,4349,Normal,70131.0,Resolved,Sarvada Kamble,2024-06-25 09:11:43.393,May 1 2025 1:35PM,04.08.2025,2025-08-04 20:51:35.827000,2025-08-04 20:51:35.827000,Closed,,OK
+25,SDVK962942,SAPSD-CR6358-Invoice copies required for Digital mobile app,6358,Normal,86696.0,Resolved,Himanshu Sharma,2025-05-16 11:29:28.353,Aug 18 2025 1:25PM,22.08.2025,2025-08-22 12:41:07.230000,2025-08-22 12:41:07.230000,Closed,,OK
+26,SDVK963007,SAP HR : ZPORTAL_BDC_2001_INT change for HSPN,6580,Normal,70131.0,Resolved,Sarvada Kamble,2025-06-19 12:18:20.957,2025-08-01 00:00:00,04.08.2025,2025-08-04 19:58:00.207000,2025-08-04 19:58:00.207000,Closed,,OK
+27,SDVK963399,MM: Purchase Group Sanath Kumar CR6415,6415,Normal,98978.0,Resolved,Amit Kumar,2025-05-23 11:02:58.510,2025-07-24 00:00:00,07.08.2025,2025-08-07 12:35:10.340000,2025-08-07 12:35:10.340000,Closed,,OK
+28,SDVK963641,MM: New Purchase Group 701 & NMP: CR6593,6593,Normal,101163.0,Resolved,Amit Kumar,2025-06-23 08:45:34.550,2025-08-18 00:00:00,28.08.2025,2025-08-28 13:58:05.257000,2025-08-28 13:58:05.257000,Closed,,OK
+29,SDVK963735,SAPSD-CR6551-Plan Date Addition in ZEQ_CR,6551,Normal,100206.0,Resolved,Mohmmad Aakib,2025-06-14 16:33:41.493,Jul 28 2025 2:39PM,06.08.2025,2025-08-06 15:40:39.847000,2025-08-06 15:40:39.847000,Closed,,OK
+30,SDVK964117,CR6631: SAP HR : HPOD and HGCO Integration change,6631,Normal,101476.0,Resolved,Sarvada Kamble,2025-06-27 08:52:44.347,Aug 2 2025 5:24AM,04.08.2025,2025-08-04 17:25:03.100000,2025-08-04 17:25:03.100000,Closed,,OK
+31,SDVK964164,ZHR_PA2006_LOCK: CR6580: IT2006 data lock,6580,Normal,70131.0,Resolved,Sarvada Kamble,2025-06-19 12:18:20.957,2025-08-01 00:00:00,04.08.2025,2025-08-04 19:58:00.207000,2025-08-04 19:58:00.207000,Closed,,OK
+32,SDVK964385,SAPSD-CR6707-SAP Pricing Workflow for Topline Dealers,6707,Normal,99383.0,Resolved,Himanshu Sharma,2025-07-08 13:52:31.587,Aug 24 2025 2:02PM,26.08.2025,2025-08-27 10:56:58.687000,2025-08-27 10:56:58.687000,Closed,,OK
+33,SDVK964686,SAPMM:CR6952:MRN & SRV Smartform Changes,6952,Normal,104663.0,Resolved,Amit Kumar,2025-08-12 09:27:05.270,Aug 14 2025 4:00PM,18.08.2025,2025-08-18 10:46:37.820000,2025-08-18 10:46:37.820000,Closed,,OK
+34,SDVK964797,SAPSD: CR6793 New port addition,6793,Normal,103483.0,Resolved,Himanshu Sharma,2025-07-18 14:49:03.277,2025-08-23 00:00:00,27.08.2025,2025-08-27 13:58:04.490000,2025-08-27 13:58:04.490000,Closed,,OK
+35,SDVK964806,CR6630: New warehouse added for SAP to HIRISE,6630,Normal,101807.0,Resolved,Nikita Pal,2025-06-27 08:44:30.530,Aug 22 2025 1:18PM,25.08.2025,2025-08-25 14:36:08.420000,2025-08-25 14:36:08.420000,Closed,,OK
+36,SDVK964854,ZXPADU02:CR6631: HGCO/HPOD logic enhancements,6631,Normal,101476.0,Resolved,Sarvada Kamble,2025-06-27 08:52:44.347,Aug 2 2025 5:24AM,04.08.2025,2025-08-04 17:25:03.100000,2025-08-04 17:25:03.100000,Closed,,OK
+37,SDVK964909,MM: New MRP Area TPKR-1U05 : CR6779,6779,Normal,102730.0,Resolved,Amit Kumar,2025-07-16 17:44:35.430,Aug 18 2025 1:23PM,27.08.2025,2025-08-27 10:42:40.253000,2025-08-27 10:42:40.253000,Closed,,OK
+38,SDVK964925,Dashboard Format Change_22 July 2025,6976,Normal,106392.0,Resolved,Nikita Pal,2025-08-18 16:52:30.493,Aug 21 2025 1:07PM,22.08.2025,2025-08-22 11:25:03.377000,2025-08-22 11:25:03.377000,Closed,,OK
+39,SDVK965008,SAP PP: CR6795 Cogi Mail Changes,6795,Normal,102178.0,Resolved,Ved Prakash,2025-07-19 10:41:33.630,Aug 18 2025 12:06PM,27.08.2025,2025-08-27 10:38:38.410000,2025-08-27 10:38:38.410000,Closed,,OK
+40,SDVK965053,SAPSD: New City code addtion (EMK),6834,Normal,103838.0,Resolved,Himanshu Sharma,2025-07-25 09:40:28.483,2025-07-29 00:00:00,06.08.2025,2025-08-06 15:37:15.027000,2025-08-06 15:37:15.027000,Closed,,OK
+41,SDVK965106,SAPMM : CR6810 PO Change Log Report,6810,Normal,103039.0,Resolved,Amit Kumar,2025-07-22 17:23:16.510,Aug 18 2025 11:52AM,18.08.2025,2025-08-18 17:39:01.193000,2025-08-18 17:39:01.193000,Closed,,OK
+42,SDVK965188,SAPMM-CR6849-ZQPPM Report,6849,Normal,104034.0,Resolved,Amit Kumar,2025-07-28 08:52:50.527,Aug 18 2025 12:06PM,20.08.2025,2025-08-20 08:05:28.820000,2025-08-20 08:05:28.820000,Closed,,OK
+43,SDVK965229,SD: CR6874 : Route Master creation 30-07-2025.,6874,Normal,104558.0,Resolved,Nikita Pal,2025-07-30 13:02:56.567,Aug 2 2025 5:18AM,02.08.2025,2025-08-02 12:17:38.247000,2025-08-02 12:17:38.247000,Closed,,OK
+44,SDVK965292,SAP HR-CR6631-Variance Report Changes,6631,Normal,101476.0,Resolved,Sarvada Kamble,2025-06-27 08:52:44.347,Aug 2 2025 5:24AM,04.08.2025,2025-08-04 17:25:03.100000,2025-08-04 17:25:03.100000,Closed,,OK
+45,SDVK965364,SD: CR6874 : Route Master creation 30-07-2025,6874,Normal,104558.0,Resolved,Nikita Pal,2025-07-30 13:02:56.567,Aug 2 2025 5:18AM,02.08.2025,2025-08-02 12:17:38.247000,2025-08-02 12:17:38.247000,Closed,,OK
+46,SDVK965368,SD - CR6883 : Route master Goalpara 01-08-2025.,6883,Normal,104693.0,Resolved,Neelanshu Agarwal,2025-07-31 16:15:00.903,Aug 10 2025 3:11PM,10.08.2025,2025-08-11 07:30:16.987000,2025-08-11 07:30:16.987000,Closed,,OK
+47,SDVK965374,SAP MM:CR6952: MRN approval enhancements,6952,Normal,104663.0,Resolved,Amit Kumar,2025-08-12 09:27:05.270,Aug 14 2025 4:00PM,18.08.2025,2025-08-18 10:46:37.820000,2025-08-18 10:46:37.820000,Closed,,OK
+48,SDVK965399,FI: CR6913 New Evaluation Group EV,6913,Normal,104599.0,Resolved,Mohit Agarwal,2025-08-05 12:48:19.823,Aug 23 2025 5:04PM,25.08.2025,2025-08-25 14:19:22.193000,2025-08-25 14:19:22.193000,Closed,,OK
+49,SDVK965464,SAPMM-CR6849-Line Rejection Smartform Changes,6849,Normal,104034.0,Resolved,Amit Kumar,2025-07-28 08:52:50.527,Aug 18 2025 12:06PM,20.08.2025,2025-08-20 08:05:28.820000,2025-08-20 08:05:28.820000,Closed,,OK
+50,SDVK965523,SAPSD-CR6930-Mfg date issue,6930,Emergency,105761.0,Resolved,Himanshu Sharma,2025-08-07 15:12:43.960,Aug 9 2025 3:30PM,07.08.2025,2025-08-11 07:34:04.170000,2025-08-11 07:34:04.170000,Closed,,OK
+51,SDVK965627,SAPFI-CR6863-SCB Bank,6863,Normal,104359.0,Resolved,Tilak Raj,2025-07-29 00:00:00.000,2025-08-19 00:00:00,20.08.2025,,,Open,,CE not closed
+52,SDVK965659,Security_Patch_July,6968,Normal,105412.0,Resolved,Prasun Mishra,2025-08-14 09:20:59.780,2025-08-27 00:00:00,28.08.2025,2025-08-28 11:32:08.283000,2025-08-28 11:32:08.283000,Closed,Prasun Mishra,No CR Found
+53,SDVK965671,CR6949 : SAP HR Hold SPL Leave Go Live till SEP 2025,6523,Normal,100714.0,Resolved,Prasun Mishra,2025-06-12 00:00:00.000,2025-06-12 00:00:00,20.08.2025,2025-07-07 00:00:00,2025-07-07 00:00:00,Closed,Prasun Mishra,OK
+54,SDVK965712,CR6949 : SAP HR Hold SPL Leave Go Live till SEP 2025,6523,Normal,100714.0,Resolved,Prasun Mishra,2025-06-12 00:00:00.000,2025-06-12 00:00:00,20.08.2025,2025-07-07 00:00:00,2025-07-07 00:00:00,Closed,Prasun Mishra,OK
+55,SDVK965751,SAP results and STAR report,6966,Normal,105465.0,Resolved,Prasun Mishra,2025-08-13 00:00:00.000,2025-08-14 00:00:00,18.08.2025,2025-08-18 00:00:00,2025-08-18 00:00:00,Closed,Prasun Mishra,OK
+56,SDVK965299,LPC:HMSI_Role_Redesign_Hypercare_issue,6902,Normal,100026.0,Resolved,Rita,2025-08-04 00:00:00.000,,2025-08-01 00:00:00,,,,Rita,
+57,SDVK965381,IT: HMSI role design: Hypercare issue Ashish San,5733,Normal,91114.0,Resolved,Rita,2025-02-27 00:00:00.000,2025-06-13 00:00:00,2025-08-04 00:00:00,2025-06-13 00:00:00,2025-06-13 00:00:00,Closed,Rita,Okay
+58,SDVK965383,IT: HMSI role design: IT hypercare issue,5733,Normal,91114.0,Resolved,Rita,2025-02-27 00:00:00.000,2025-06-13 00:00:00,2025-08-04 00:00:00,2025-06-13 00:00:00,2025-06-13 00:00:00,Closed,Rita,Okay
+59,SDVK965397,LPC : HMSI ROLE design  : Hypercare Issue_Vineet_Pawar,6902,Normal,100026.0,Resolved,Rita,2025-08-04 00:00:00.000,,2025-08-04 00:00:00,,,,Rita,
+60,SDVK965428,Plants : HMSI Role Re-Design Hypercare issues,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-05 00:00:00,,,,,
+61,SDVK965430,PLANTS:HMSI_Role_Redesign_Hypercare_issues,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-05 00:00:00,,,,,
+62,SDVK965462,LPC : HMSI Role Re-Design hypercare issues t-code add,6902,Normal,100026.0,Resolved,Rita,2025-08-04 00:00:00.000,,2025-08-05 00:00:00,,,,Rita,
+63,SDVK965467,PPC: Hmsi role design: hypercare issues,6693,Normal,100026.0,Resolved,Rita,2025-07-07 00:00:00.000,,2025-08-05 00:00:00,,,,Rita,
+64,SDVK965470,PLANTS:HMSI_Role_Redesign_Hypercare_issue_TPC,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-05 00:00:00,,,,,
+65,SDVK965479,Plants:HMSI Role Re-Design - Hypercare issue TPKR ZCDP_QUOTA,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-06 00:00:00,,,,,
+66,SDVK965492,BP:HMSI_Role_Redesign_Hypercare_issue_MIGO,6753,Normal,100026.0,Resolved,Rita,2025-07-14 00:00:00.000,,2025-08-06 00:00:00,,,,Rita,
+67,SDVK965494,"MPPSM: HMSI Role design : Hypercare ZMMGP01,02 Add",6699,Normal,100026.0,Resolved,Rita,2025-07-07 00:00:00.000,,2025-08-06 00:00:00,,,,Rita,
+68,SDVK965515,Plants:HMSI Role Re-Design - Hypercare issue Mat Mast SHPF,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-07 00:00:00,,,,,
+69,SDVK965525,BP:HMSI_Role_Resdesign_Hypercare_issue_VF03,6753,Normal,100026.0,Resolved,Rita,2025-07-14 00:00:00.000,,2025-08-07 00:00:00,,,,Rita,
+70,SDVK965531,Plants:HMSI Role Re-Design - Hypercare issue ZSPORTAL03,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-07 00:00:00,,,,,
+71,SDVK965534,Plants : HMSI Rol;e Redesign Hypercare issues,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-07 00:00:00,,,,,
+72,SDVK965546,Plants:HMSI Role Re-Design - Hypercare issue CO11N Acc_Rep,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-08 00:00:00,,,,,
+73,SDVK965567,OSB : Hmsi role design - hypercare tcode addition,6901,Normal,100026.0,Resolved,Rita,2025-08-04 00:00:00.000,,2025-08-09 00:00:00,,,,Rita,
+74,SDVK965577,Plants:HMSI Role Re-Design - Hypercare issue VL32N MAT_CTRL,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-10 00:00:00,,,,,
+75,SDVK965596,Plants :  HMSI Role Redesign IW22 Hypercare issue,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-11 00:00:00,,,,,
+76,SDVK965598,Plants:HMSI Role Re-Design - Hypercare issue ZMM_REJ_NOTE,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-11 00:00:00,,,,,
+77,SDVK965601,HR:HMSI Role Re-Design - Hypercare issue ZMM_REJGATEOUT,7083,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-11 00:00:00,,,,Rita,
+78,SDVK965608,Plants:HMSI Role Re-Design - Hypercare issue ZMM_VENDRET,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-11 00:00:00,,,,,
+79,SDVK965612,Plants:HMSI Role Re-Design - Hypercare issue ZGT_CALCH,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-11 00:00:00,,,,,
+80,SDVK965625,Plants:HMSI Role Re-Design - Hypercare issue Enabler - ZOPN,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-12 00:00:00,,,,,
+81,SDVK965647,HR&Admin : Hmsi role design : hypercare issues 179-180,7083,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-12 00:00:00,,,,Rita,
+82,SDVK965649,HR&Admin: Hmsi role design: Expat Admin hypercare issues,7083,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-12 00:00:00,,,,Rita,
+83,SDVK965654,Plants:HMSI Role Re-Design - Hypercare issue Tcode in TP JPs,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-12 00:00:00,,,,,
+84,SDVK965662,HR&Admin : HMSI Role Design- Time Admin hypercare issues,7083,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-12 00:00:00,,,,Rita,
+85,SDVK965703,HR&Admin : HMSI Role Design : Time Admin Hypercare issues,7083,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-13 00:00:00,,,,Rita,
+86,SDVK965722,HR&Admin: HMSI Role design : time admin hypercare issues,7083,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-13 00:00:00,,,,Rita,
+87,SDVK965724,OSB : HMSI Role Re-Design - Hypercare Tcode in exp_inv_mgmt,6901,Normal,100026.0,Resolved,Rita,2025-08-04 00:00:00.000,,2025-08-13 00:00:00,,,,Rita,
+88,SDVK965733,HR : HMSI Role Re-Design - Hypercare VL31N in HR_ADMIN,7083,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-13 00:00:00,,,,Rita,
+89,SDVK965742,HR&Admin : HMSI Role Re-Design Hypercare Issues,7083,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-13 00:00:00,,,,Rita,
+90,SDVK965754,OSB : HMSI Role Re-Design - Hypercare General role update,6901,Normal,100026.0,Resolved,Rita,2025-08-04 00:00:00.000,,2025-08-13 00:00:00,,,,Rita,
+91,SDVK965775,Plants:HMSI Role Re-Design - Hypercare issue CO01/02 in Acc,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-14 00:00:00,,,,,
+92,SDVK965778,Plants:HMSI Role Re-Design - Hypercare issue Doctype enabler,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-14 00:00:00,,,,,
+93,SDVK965782,Plants:HMSI Role Re-Design - Hypercare issue MRN Approval,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-14 00:00:00,,,,,
+94,SDVK965792,HR:Hmsi Role Design: Hypercare issues,7083,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-14 00:00:00,,,,Rita,
+95,SDVK965811,Plants:HMSI Role Re-Design - Hypercare issue QA32 Maint-mgmt,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-18 00:00:00,,,,,
+96,SDVK965827,Plants:HMSI Role Re-Design - Hypercare issue ZCDP_QUOTA,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-18 00:00:00,,,,,
+97,SDVK965839,HR&Admin : HMSI Role design- IR hypercare issues,7083,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-18 00:00:00,,,,Rita,
+98,SDVK965851,HR&Admin hypercare issue,7083,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-19 00:00:00,,,,Rita,
+99,SDVK965864,Plants:HMSI Role Re-Design - Hypercare issue Store_CTRL,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-19 00:00:00,,,,,
+100,SDVK965878,HR&Admin : Hmsi role design- hypercare issue,7083,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-20 00:00:00,,,,Rita,
+101,SDVK965891,HR&Admin : HMSI Role Redesign Hypercare issues,7083,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-20 00:00:00,,,,Rita,
+102,SDVK965899,Plants:HMSI Role Re-Design - Hypercare issue ZSD_MATUPLD,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-20 00:00:00,,,,,
+103,SDVK965901,Plants:HMSI Role Re-Design - Hypercare issue ZSD_GTREPO,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-20 00:00:00,,,,,
+104,SDVK965903,Plants:HMSI Role Re-Design - Hypercare issue MIGO in Rejn,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-20 00:00:00,,,,,
+105,SDVK965927,Plants:HMSI Role Re-Design - Hypercare issue Mat_mast,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-21 00:00:00,,,,,
+106,SDVK965941,Plants:HMSI Role Re-Design - Hypercare issue QA32,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-21 00:00:00,,,,,
+107,SDVK965948,Plants:HMSI Role Re-Design - Hypercare issue Maint Mgmt Shpf,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-22 00:00:00,,,,,
+108,SDVK965971,Plants:HMSI Role Re-Design - Hypercare issue MEMASSSA Asset,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-22 00:00:00,,,,,
+109,SDVK965974,HR&Admin: Hypercare issues - Maintain Auth to IT0014 & 0016,7083,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-22 00:00:00,,,,Rita,
+110,SDVK965999,Plants:HMSI Role Re-Design - Hypercare issue MRN Approver,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-22 00:00:00,,,,,
+111,SDVK966016,Plants:HMSI Role Re-Design - Hypercare issue ZPP_SMC_UPLD,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-23 00:00:00,,,,,
+112,SDVK966020,Plants:HMSI Role Re-Design -Hypercare issue ME51N Store Cntl,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-23 00:00:00,,,,,
+113,SDVK966025,Finance:HMSI Role Re-Design -Hypercare issues,7082,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-23 00:00:00,,,,Rita,
+114,SDVK966027,Finance : HMSI Role Redesign Hypercare Issues 23082025,7082,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-23 00:00:00,,,,Rita,
+115,SDVK966031,Finance : HMSI Role Redesign Hypercare Issues 23082025 - 2,7082,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-23 00:00:00,,,,Rita,
+116,SDVK966033,Finance:HMSI Role Re-Design - Hypercare issues 1,7082,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-23 00:00:00,,,,Rita,
+117,SDVK966037,Finance:HMSI Role Re-Design - Hypercare issues 2,7082,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-23 00:00:00,,,,Rita,
+118,SDVK966039,Plants:HMSI Role Re-Design -Hypercare issue ZVTRN Store mgmt,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-23 00:00:00,,,,,
+119,SDVK966041,Finance : HMSI Role Redesign - Hypercare issues 23082025 -3,7082,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-23 00:00:00,,,,Rita,
+120,SDVK966043,Finance:HMSI Role Re-Design - Hypercare issues 3,7082,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-23 00:00:00,,,,Rita,
+121,SDVK966045,Finance : HMSI Role Re-Design Hypercare Issue 4,7082,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-23 00:00:00,,,,Rita,
+122,SDVK966059,Plants:HMSI Role Re-Design -Hypercare issue NB doctype enabl,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-25 00:00:00,,,,,
+123,SDVK966062,FIN : ZFI_RPCIPE01(T-code) hypercare issue,7082,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-25 00:00:00,,,,Rita,
+124,SDVK966064,Plants:HMSI Role Re-Design -Hypercare issue VQ Line supp,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-25 00:00:00,,,,,
+125,SDVK966068,HR&admin: HMSI role design- Comp adm hypercare fixes,7083,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-25 00:00:00,,,,Rita,
+126,SDVK966075,Finance:HMSI Role Re-Design - Hypercare issues Sales ACC F4,7082,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-25 00:00:00,,,,Rita,
+127,SDVK966077,Finance: HMSI Role Re-Design Hypercare issues 5,7082,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-25 00:00:00,,,,Rita,
+128,SDVK966085,Finance:HMSI Role Re-Design - Hypercare issues F5,7082,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-25 00:00:00,,,,Rita,
+129,SDVK966087,Finance:HMSI Role Re-Design - Hypercare issues F6,7082,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-25 00:00:00,,,,Rita,
+130,SDVK966089,Finance:HMSI Role Re-Design - Hypercare issues VarunKumar F7,7082,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-25 00:00:00,,,,Rita,
+131,SDVK966091,Finance : HMSI Role Re-Design Hypercare Issues 6,7082,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-26 00:00:00,,,,Rita,
+132,SDVK966112,Finance : HMSI Role Redesign Hypercare issues 7,7082,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-26 00:00:00,,,,Rita,
+133,SDVK966117,HR&Admin: HMSI Role design - Planning Admin hypercare issues,7083,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-26 00:00:00,,,,Rita,
+134,SDVK966132,Finance : HMSI Role Re-Design Hypercare issues 8,7082,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-26 00:00:00,,,,Rita,
+135,SDVK966153,Finance : HMSI Role Redesign Hypercare issues 9,7082,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-26 00:00:00,,,,Rita,
+136,SDVK966156,Finance : HMSI Role Re-Design Hypercare issues 10,7082,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-26 00:00:00,,,,Rita,
+137,SDVK966160,Finance : HMSI Role Re-Design Hypercare issue 11,7082,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-26 00:00:00,,,,Rita,
+138,SDVK966179,Finance : Hmsi role design- hypercare issues,7082,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-27 00:00:00,,,,Rita,
+139,SDVK966192,HR&Admin : HMSI Role Re-Design Hypercare issue INF Type 0009,7083,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-27 00:00:00,,,,Rita,
+140,SDVK966195,Plants:HMSI Role Re-Design -Hypercare issue Maint mgmt maint,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-27 00:00:00,,,,,
+141,SDVK966197,Finance : HMSI Role Re-Design hypercare isssue 11,7082,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-27 00:00:00,,,,Rita,
+142,SDVK966207,Finance : HMSI Role Redesign Hypercare issues 12,7082,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-27 00:00:00,,,,Rita,
+143,SDVK966210,Finanace : HMSI Role re-design Hypercare issues 13,7082,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-27 00:00:00,,,,Rita,
+144,SDVK966212,HR &Admin: HMSI Role Re-Design Hypercare issue HR DVH,7083,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-27 00:00:00,,,,Rita,
+145,SDVK966222,Finance : HMSI Role Re-Design Hypercare issues 14,7082,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-27 00:00:00,,,,Rita,
+146,SDVK966232,Finance : HMSI Role re-Design Hypercare issue 15,7082,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-28 00:00:00,,,,Rita,
+147,SDVK966243,Finance:HMSI_Role_Redesign_Hypercare,7082,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-28 00:00:00,,,,Rita,
+148,SDVK966245,Finance : HMSI Role Re-Design Hypercare issues 16,7082,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-28 00:00:00,,,,Rita,
+149,SDVK966250,Finance : HMSI Role Re-Design Hypercare Issues 16,7082,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-29 00:00:00,,,,Rita,
+150,SDVK966253,Finance : HMSI Role Re-Design Hypercare Issues 17,7082,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-29 00:00:00,,,,Rita,
+151,SDVK966263,OSB : HMSI Role Re-Design Hypercare Risk Removal Activity,6901,Normal,100026.0,Resolved,Rita,2025-08-04 00:00:00.000,,2025-08-29 00:00:00,,,,Rita,
+152,SDVK966267,Plants:HMSI Role Re-Design -Hypercare issue ZGT_CALUI Auth,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-29 00:00:00,,,,,
+153,SDVK966288,Finance : HMSI Role Re-Design Hypercare issues 19,7082,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-29 00:00:00,,,,Rita,
+154,SDVK966294,Finance : HMSI Role Re-Design Hypercare issues 20,7082,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-29 00:00:00,,,,Rita,
+155,SDVK965308,OSB : HMSI Role Re-Design New T-codes addition,6901,Normal,100026.0,Resolved,Rita,2025-08-04 00:00:00.000,,2025-08-01 00:00:00,,,,Rita,
+156,SDVK965318,LPC : HMSI ROLE design  : zsd_frt_recovery addition QTY jps,6902,Normal,100026.0,Resolved,Rita,2025-08-04 00:00:00.000,,2025-08-01 00:00:00,,,,Rita,
+157,SDVK965405,OSB:HMSI Role Re-design ZMM_REJGATEOUT_RPT & Doc Type ZOPN,6901,Normal,100026.0,Resolved,Rita,2025-08-04 00:00:00.000,,2025-08-04 00:00:00,,,,Rita,
+158,SDVK965410,QCHO: Hmsi role design: Doc type enabler for Qcho,6749,Normal,100026.0,Resolved,Rita,2025-07-14 00:00:00.000,,2025-08-04 00:00:00,,,,Rita,
+159,SDVK965425,Plants : HMSI Role Redesign MD04 and CO11N add Irregular Act,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-05 00:00:00,,,,,
+160,SDVK965454,TPKR: Hmsi Role Design : Approval Auth job profiles,7086,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-05 00:00:00,,,,Rita,
+161,SDVK965460,"Plants: HMSI Role Re-design ZSD_SCRP_PGI,VA41/2, VA02 HYP",7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-05 00:00:00,,,,,
+162,SDVK965472,Plants: Hmsi Role Design - Co11N addition to Spare Handler,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-05 00:00:00,,,,,
+163,SDVK965486,Plants : HMSI Role Re-Design Scrap Contract role,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-06 00:00:00,,,,,
+164,SDVK965490,Plants: HMSI Role Re-design Remove HR Tcodes from job roles,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-06 00:00:00,,,,,
+165,SDVK965496,Plants:HMSI Role Re-design Remove HR Tcodes from job role V2,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-06 00:00:00,,,,,
+166,SDVK965506,Plants:HMSI Role Re-design Add CO11N to PO Parts & Prd Confn,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-06 00:00:00,,,,,
+167,SDVK965508,Plant : Hmsi Role Design : Purchase 1F new t-code additions,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-07 00:00:00,,,,,
+168,SDVK965518,PLANTS:HMSI_Role_Redesign_ZMR90,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-07 00:00:00,,,,,
+169,SDVK965529,IT: HMSI Role Re-design Remove SU50/1/2 Tcodes from role,6562,Normal,100026.0,Resolved,Rita,2025-06-17 00:00:00.000,2025-06-26 00:00:00,2025-08-07 00:00:00,,,,Rita,
+170,SDVK965541,Plants:HMSI Role Re-design CO11N Tcode addition HYP,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-07 00:00:00,,,,,
+171,SDVK965548,PLANT:HMSI_Role_Redesign_Budget_costing,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-08 00:00:00,,,,,
+172,SDVK965555,Plants:HMSI_Role_redesign_CO11N_addition,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-08 00:00:00,,,,,
+173,SDVK965557,OSB:HMSI Role Re-design ZSD_FREIGHT Tcode addition HYP,6901,Normal,100026.0,Resolved,Rita,2025-08-04 00:00:00.000,,2025-08-08 00:00:00,,,,Rita,
+174,SDVK965559,Plants : Hmsi role design :VL32N addition to Matrl Master,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-08 00:00:00,,,,,
+175,SDVK965563,IT: HMSI Role Re-design Adding SPRO & Table display access,6562,Normal,100026.0,Resolved,Rita,2025-06-17 00:00:00.000,2025-06-26 00:00:00,2025-08-09 00:00:00,,,,Rita,
+176,SDVK965569,PLANTS:HMSI_Role_Redesign_Facilty_mng_SHP,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-09 00:00:00,,,,,
+177,SDVK965575,Plants : HMSI Role Redeisign ZCDP_QUOTA MBST Addition,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-09 00:00:00,,,,,
+178,SDVK965582,Plants:HMSI_Role_Redesign_ZCDP_QUOTA_BUG_FIX,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-11 00:00:00,,,,,
+179,SDVK965592,Plants:HMSI_Role_Redesign_ZCDP_QUOTA,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-11 00:00:00,,,,,
+180,SDVK965594,HR &Admin : HMSI Role Re-Design t-codes add in HR DVH JP,7083,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-11 00:00:00,,,,Rita,
+181,SDVK965604,Plants:HMSI_Role_Redesign_ZCD_QUOTA-3,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-11 00:00:00,,,,,
+182,SDVK965615,PLANTS:HMSI_Role_Redesign_Store_controller,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-11 00:00:00,,,,,
+183,SDVK965633,"Plants: HMSI Role Re-design Auth issues in QA32,ZCS_FS HYP",7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-11 00:00:00,,,,,
+184,SDVK965635,Plants: HMSI Role Re-design Auth issue in QA32 HYP,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-12 00:00:00,,,,,
+185,SDVK965644,Plants:HMSI_Role_Redesign_TPC,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-12 00:00:00,,,,,
+186,SDVK965667,PLANTS:HMSI_Role_Redesign_Outbound_TPC,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-14 00:00:00,,,,,
+187,SDVK965680,Plants: HMSI Role Re-design Add Tcodes to Spare Handler HYP,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-13 00:00:00,,,,,
+188,SDVK965717,Plants : HMSI role redesign t-code addition,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-13 00:00:00,,,,,
+189,SDVK965727,Plants: HMSI Role Re-design Auth issue for IA02 HYP,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-13 00:00:00,,,,,
+190,SDVK965736,CR: 6752 : Role Modification,6752,Normal,100026.0,Resolved,Rita,2025-08-14 00:00:00.000,,2025-08-13 00:00:00,,,,Rita,
+191,SDVK965740,CR: 6562 : Role Modification,6562,Normal,100026.0,Resolved,Rita,2025-06-17 00:00:00.000,2025-06-26 00:00:00,2025-08-13 00:00:00,,,,Rita,
+192,SDVK965744,HR: HMSI Role design: Punch upload fixes to ZO Admins,7083,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-13 00:00:00,,,,Rita,
+193,SDVK965746,Plants:HMSI_Role_Redesign_Spare_Plan,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-13 00:00:00,,,,,
+194,SDVK965761,HR&Admin:Hmsi Role design: Time admin fixes,7083,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-13 00:00:00,,,,Rita,
+195,SDVK965765,Plants:HMSI_Role_Redesign_Acc_Repair,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-14 00:00:00,,,,,
+196,SDVK965787,HR&Admin: HMSI Role design : EBQH PA additon to HMHO users,7083,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-14 00:00:00,,,,Rita,
+197,SDVK965796,Plants:HMSI_Role Redesign_VL06IG,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-14 00:00:00,,,,,
+198,SDVK965800,HR:HMSI Role design,7083,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-14 00:00:00,,,,Rita,
+199,SDVK965802,HR&Admin: HMSI Role design: T-code additon to Time Admin,7083,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-18 00:00:00,,,,Rita,
+200,SDVK965806,Plants: HMSI Role Re-design Access to ZMMGP01/02/03 HYP,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-18 00:00:00,,,,,
+201,SDVK965817,Plants:HMSI_Role_Redesign_ZMM_SOB,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-18 00:00:00,,,,,
+202,SDVK965825,HR&Admin : Hmsi role design : Time Admin enablers,7083,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-18 00:00:00,,,,Rita,
+203,SDVK965830,HR&Admin : HMSI role design: DVH_IR role fixes,7083,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-18 00:00:00,,,,Rita,
+204,SDVK965833,Plants:HMSI_Role_Redesign_add_gate_entry_plant_store_profile,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-18 00:00:00,,,,,
+205,SDVK965835,Plants:Hmsi_Role_Redesign_Bug_Fixes_MRN_approval,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-18 00:00:00,,,,,
+206,SDVK965843,Plants:HMSI_Role_redesign_Budget_store,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-19 00:00:00,,,,,
+207,SDVK965846,HR&Admin : HMSI role design : FTR_CREATE_EDIT issue for pnts,7083,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-19 00:00:00,,,,Rita,
+208,SDVK965857,HR&ADMIN: PT60 issue,7083,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-19 00:00:00,,,,Rita,
+209,SDVK965859,Plants:HMSI_Role_redesign_Weld_part_Quality Mng,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-19 00:00:00,,,,,
+210,SDVK965861,HR&admin : hmsi role design : BP creation issue,7083,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-19 00:00:00,,,,Rita,
+211,SDVK965866,CR : 6693 : Role Modification (19.08.2025),6693,Normal,100026.0,Resolved,Rita,2025-07-07 00:00:00.000,,2025-08-20 00:00:00,,,,Rita,
+212,SDVK965868,Plants:HMSI_Role_Redesign_add_TPWH_MRN_app,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-19 00:00:00,,,,,
+213,SDVK965875,HR&ADMIN : T-code additons : HR DIV,7083,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-20 00:00:00,,,,Rita,
+214,SDVK965880,HR&Admin : ZTIMEROLL Read auth to B2 cluster,7083,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-20 00:00:00,,,,Rita,
+215,SDVK965882,HR&admin : VL31N table issue,7083,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-21 00:00:00,,,,Rita,
+216,SDVK965908,CR: 6562 : Role Modification (20th Aug 2025),6562,Normal,100026.0,Resolved,Rita,2025-06-17 00:00:00.000,2025-06-26 00:00:00,2025-08-20 00:00:00,,,,Rita,
+217,SDVK965912,HMSI Role Re-Design - MRN create addition,7082,Normal,100026.0,Resolved,Rita,,,2025-08-21 00:00:00,,,,,
+218,SDVK965919,CR : 6562 : Role Modification 2nd (20th Aug 2025),6562,Normal,100026.0,Resolved,Rita,2025-06-17 00:00:00.000,2025-06-26 00:00:00,2025-08-21 00:00:00,,,,Rita,
+219,SDVK965931,HR : HMSI role design : Table list addition,7083,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-21 00:00:00,,,,Rita,
+220,SDVK965933,HR: HMSI role design : SQVI error,7083,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-21 00:00:00,,,,Rita,
+221,SDVK965937,LPC: HMSI role design: ZTRUCK issue,6902,Normal,100026.0,Resolved,Rita,2025-08-04 00:00:00.000,,2025-08-21 00:00:00,,,,Rita,
+222,SDVK965943,HR&Admin : HMSI role design : FBL1N additions to admin JPs,7083,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-21 00:00:00,,,,Rita,
+223,SDVK965956,PPC:HMSI Role Re-Design -rem ZMM_VENDRET from Sys Plan Ctrlr,6693,Normal,100026.0,Resolved,Rita,2025-07-07 00:00:00.000,,2025-08-22 00:00:00,,,,Rita,
+224,SDVK965962,HR&Admin : HMSI Role design : Release code 52 role,7083,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-22 00:00:00,,,,Rita,
+225,SDVK965964,OSB:HMSI Role Re-Design -rem VL06C from Exp CBU/CKD/KD ACT,6901,Normal,100026.0,Resolved,Rita,2025-08-04 00:00:00.000,,2025-08-22 00:00:00,,,,Rita,
+226,SDVK965988,HR&admin : Employee type I added- Hmsi role design,7083,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-22 00:00:00,,,,Rita,
+227,SDVK965993,Plants:HMSI_Role_Redesign_Tcode_add_facility_mng,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-22 00:00:00,,,,,
+228,SDVK966054,HR&admin: Loan Payments Entry fixes to Time Admins,7083,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-25 00:00:00,,,,Rita,
+229,SDVK966080,OSB:HMSI_Role_Redesign_ME29N_Import/Export,6901,Normal,100026.0,Resolved,Rita,2025-08-04 00:00:00.000,,2025-08-26 00:00:00,,,,Rita,
+230,SDVK966083,LPC: HMSI role design - T-code addition,6902,Normal,100026.0,Resolved,Rita,2025-08-04 00:00:00.000,,2025-08-25 00:00:00,,,,Rita,
+231,SDVK966105,HR&Admin : Hmsi role design - Welfare admin 0015 IT access,7083,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-28 00:00:00,,,,Rita,
+232,SDVK966149,Finance:HMSI_Role_Redesign_ZMMGPAPPR,7082,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-26 00:00:00,,,,Rita,
+233,SDVK966158,HR&ADMIN: T-code addition to Expat Admin,7083,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-26 00:00:00,,,,Rita,
+234,SDVK966167,HMSI Role Re-Design - MRN create addition,7082,Normal,100026.0,Resolved,Rita,2025-09-03 00:00:00.000,,2025-08-26 00:00:00,,,,Rita,
+235,SDVK966177,Plants:HMSI_Role_redesign_Multiple,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-27 00:00:00,,,,,
+236,SDVK966190,Finance:HMSI_Role_Redesign_Add_MIR4,7082,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-27 00:00:00,,,,Rita,
+237,SDVK966199,Finance:HMSI_Role_Redesign_F-44_Auth_fix,7082,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-27 00:00:00,,,,Rita,
+238,SDVK966204,Plants:HMSI_Role_Redesign_WA,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-27 00:00:00,,,,,
+239,SDVK966214,Finance:HMSI_Role_Redesign_Auth_Fix,7082,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-27 00:00:00,,,,Rita,
+240,SDVK966230,Plants:HMSI_Role_Redesign_Critical_action,7085,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-28 00:00:00,,,,,
+241,SDVK966238,Finance:HMSI_Role_Redesign_F-02_auth_fix,7082,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-28 00:00:00,,,,Rita,
+242,SDVK966334,LPC: HMSI role design -final TR,6902,Normal,100026.0,Resolved,Rita,2025-08-04 00:00:00.000,,2025-08-30 00:00:00,,,,Rita,
+243,SDVK965273,Finance : HMSI Role Re-Design All Comp Roles,5747,Normal,91114.0,Resolved,Rita,2025-02-27 00:00:00.000,2025-08-22 00:00:00,2025-08-23 00:00:00,2025-08-25 00:00:00,2025-08-25 00:00:00,Closed,Rita,
+244,SDVK965275,Finance: HMSI Role Re-Design All Single Roles,5747,Normal,91114.0,Resolved,Rita,2025-02-27 00:00:00.000,2025-08-22 00:00:00,2025-08-23 00:00:00,2025-08-25 00:00:00,2025-08-25 00:00:00,Closed,Rita,
+245,SDVK965303,HR&Admin : HMSI Role Design - HR/A UAT Role design,5737,Normal,91114.0,Resolved,Rita,2025-02-27 00:00:00.000,2025-08-08 00:00:00,2025-08-10 00:00:00,-,-,Open,Rita,
+246,SDVK965306,LPC:HMSI_Role_Redesign_Rel_code_82,6902,Normal,100026.0,Resolved,Rita,2025-08-04 00:00:00.000,,2025-08-01 00:00:00,,,,Rita,
+247,SDVK965388,Plant TPKR : HMSI Role-Redesign All roles,7086,Normal,100026.0,Resolved,Rita,2025-09-04 00:00:00.000,,2025-08-04 00:00:00,,,,Rita,
+248,SDVK965390,Plant VTPR : HMSI Role-Redesign All roles,5759,Normal,,,,,,2025-08-04 00:00:00,,,,,
+249,SDVK965392,Plant MNSR : HMSI Role-Redesign All roles,5745,Normal,91114.0,Resolved,Rita,2025-02-27 00:00:00.000,2025-08-04 00:00:00,2025-08-04 00:00:00,,,,,
+250,SDVK965394,Plant NSPR : HMSI Role-Redesign All roles,5758,Normal,,,,,,2025-08-04 00:00:00,,,,,
+251,SDVK965798,CR-5746:Role Modication,6752,Normal,100026.0,Resolved,Rita,2025-07-14 00:00:00.000,,2025-08-18 00:00:00,,,,,
+252,SDVK965951,CR: 6562 : Role Modification (21.08.2025),6562,Normal,100026.0,Resolved,Rita,2025-06-17 00:00:00.000,2025-06-26 00:00:00,2025-08-22 00:00:00,,,,Rita,
+253,SDVK965959,CR : 6693 : Role Modification (21.08.2025),6693,Normal,100026.0,Resolved,Rita,2025-07-07 00:00:00.000,,2025-08-22 00:00:00,,,,Rita,
+254,SDVK965985,CR : 6694 : General Purchase : Role Creat For New Purch. Grp,6694,Normal,100026.0,Resolved,Rita,2025-07-07 00:00:00.000,,2025-08-26 00:00:00,,,,Rita,
+255,SDVK966188,CR : 6748 : Roles Modification (27.08.2025),6748,Normal,100026.0,Resolved,Rita,2025-07-14 00:00:00.000,,2025-08-27 00:00:00,,,,Rita,
+256,SDVK966217,CR : 5747:  Role Modification (30.08.2025),6753,Normal,100026.0,Resolved,Rita,2025-07-14 00:00:00.000,,2025-08-28 00:00:00,,,,Rita,
+257,SDVK966323,CR : 5747:  Role Modification (30.08.2025),6753,Normal,100026.0,Resolved,Rita,2025-07-14 00:00:00.000,,2025-08-30 00:00:00,,,,Rita,
+258,SDVK966329,CR : 5737: Role Modification (30.08.2025),5737,Normal,91114.0,Resolved,Rita,2025-02-27 00:00:00.000,2025-08-08 00:00:00,2025-08-30 00:00:00,-,-,Open,Rita,
+1.0,GRDK900828,CR-5185  GRC request status report,6272.0,Normal,98038.0,Resolved,Sunidhi Rawat,2025-05-07,2025-08-19,2025-08-25,2025-08-25,2025-08-25,Closed,Sunidhi Rawat,Okay
+2.0,GRDK900876,Security_Patch_July_GRC,6968.0,Normal,105412.0,Resolved,Prasun Mishra,2025-08-14,2025-08-27,2025-08-28,2025-08-28,2025-08-28,Closed,Sunidhi Rawat,Okay
+3.0,GRDK900886,HMSI SF-GRC Integration - Comp Role Type Activation,6996.0,Normal,106731.0,Resolved,Rita,2025-08-21,2025-08-23,2025-08-25,2025-09-01,2025-09-01,Closed,Rita,Okay
+4.0,GRDK900888,HMSI Role Re-Design - Default and Approver Access Comp Roles,6996.0,Normal,106731.0,Resolved,Rita,2025-08-21,2025-08-23,2025-08-28,2025-09-01,2025-09-01,Closed,Rita,Okay
